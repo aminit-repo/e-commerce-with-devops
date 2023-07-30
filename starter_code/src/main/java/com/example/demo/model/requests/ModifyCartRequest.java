@@ -13,6 +13,7 @@ public class ModifyCartRequest {
 	@JsonProperty
 	private int quantity;
 
+
 	public String getUsername() {
 		return username;
 	}
